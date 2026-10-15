@@ -1,6 +1,6 @@
 cask "verdandi" do
-  version "0.2.0"
-  sha256 "35ae8a52fc1bf4fb9342d494cbc1e197f72fcfd6459f0c285064a4ca3b35a612"
+  version "0.3.0"
+  sha256 "9f65a84865a236c5995387f9323a1840a927942796f4e5d25ac81cb8c527d8ef"
 
   url "https://github.com/chris-metz/verdandi/releases/download/v#{version}/Verdandi-#{version}-arm64.dmg"
   name "Verdandi"
