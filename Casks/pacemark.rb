@@ -1,6 +1,6 @@
 cask "pacemark" do
-  version "1.2.1"
-  sha256 "698a172d38fd1c9215393afe7f8fcfa725c38772a2b06f0ac36fe31cdbb0bdec"
+  version "1.3.0"
+  sha256 "76a1b10569eb610181416da9a775fcdb49cd162969441f101a7c889733fc228b"
 
   url "https://github.com/chris-metz/pacemark/releases/download/v#{version}/Pacemark-#{version}.dmg"
   name "Pacemark"
